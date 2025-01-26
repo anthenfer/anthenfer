@@ -1,6 +1,6 @@
 ### Oi, me chamo Antônio👋
 
-🌱 Bacharel Engenharia de Computação (6º semestre)
+🌱 Bacharel Engenharia de Computação (8º semestre)
 
 🤔 Atualmente, também estudo ✨ Formação em Dados pela Escola DNC e concluí ✨ Desenvolvimento Web FullStack pela DigitalHouse
 
