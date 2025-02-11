@@ -6,7 +6,7 @@
 
 📫 Para conversar comigo, 
     Meu e-mail é: antoniohenriqueferreira@outlook.com.br
-    E meu linkedin é: https://www.linkedin.com/in/antoniohenriqueferreira22/
+    E meu linkedin é: https://www.linkedin.com/in/antonio-henrique-ferreira/
 <!--
 **anthenfer/anthenfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
