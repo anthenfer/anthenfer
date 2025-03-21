@@ -5,8 +5,10 @@
 🤔 Atualmente, também estudo Formação One Next Education pela ORACLE e concluí Desenvolvimento Web FullStack pela DigitalHouse e Formação em Dados pela Escola DNC
 
 📫 Para conversar comigo, 
-    Meu e-mail é: antoniohenriqueferreira@outlook.com.br
-    E meu linkedin é: https://www.linkedin.com/in/antonio-henrique-ferreira/
+    Meu e-mail é: 
+antoniohenriqueferreira@outlook.com.br
+    E meu linkedin é: 
+https://www.linkedin.com/in/antonio-henrique-ferreira/
 <!--
 **anthenfer/anthenfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
