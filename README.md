@@ -1,26 +1,32 @@
-### Oi, me chamo Antônio👋
+# 👋 Olá, eu sou o Antônio  
 
- Bacharelando em engenharia de computação (9º semestre) na UNICID. 
- Trabalhando como engenheiro de integração da @ Jitterbit com foco em EDI
- Concluindo a certificação OCI da Oracle pelo programa @ One, e já concluí desenvolvimento web fullstack pela @ DigitalHouse e formação em dados pela @ Escola DNC.
+🎓 **Bacharelando em Engenharia de Computação** (9º semestre) pela **UNICID**  
+💼 **Engenheiro de Integração** na **Jitterbit**, com foco em **EDI**  
+☁️ Em conclusão da **certificação Oracle Cloud Infrastructure (OCI)** pelo programa **Oracle One**  
+💻 Formação em **Desenvolvimento Web Full Stack** pela **Digital House**  
+📊 Formação em **Ciência de Dados** pela **Escola DNC**  
 
-📫 Para conversar comigo, meu e-mail é: 
-antoniohenriqueferreira@outlook.com.br 
-e meu linkedin é: 
-https://www.linkedin.com/in/antonio-henrique-ferreira/
+---
 
-Ah!, e meu insta é @anthenfer tal qual é aqui no GitHub. 
-<!--
-**anthenfer/anthenfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Onde me encontrar  
 
-Here are some ideas to get you started:
+[![Email](https://img.shields.io/badge/Email-antoniohenriqueferreira%40outlook.com.br-blue?style=for-the-badge&logo=microsoft-outlook)](mailto:antoniohenriqueferreira@outlook.com.br)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio%20Henrique%20Ferreira-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/antonio-henrique-ferreira/)  
+[![Instagram](https://img.shields.io/badge/Instagram-@anthenfer-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/anthenfer)  
+[![GitHub](https://img.shields.io/badge/GitHub-anthenfer-black?style=for-the-badge&logo=github)](https://github.com/anthenfer)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias & Ferramentas  
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+
+---
+
