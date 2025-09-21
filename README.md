@@ -1,14 +1,15 @@
 ### Oi, me chamo Antônio👋
 
-🌱 Bacharel Engenharia de Computação (9º semestre)
+ Bacharelando em engenharia de computação (9º semestre) na UNICID. 
+ Trabalhando como engenheiro de integração da @ Jitterbit com foco em EDI
+ Concluindo a certificação OCI da Oracle pelo programa @ One, e já concluí desenvolvimento web fullstack pela @ DigitalHouse e formação em dados pela @ Escola DNC.
 
-🤔 Atualmente, também estudo Formação One Next Education pela ORACLE e concluí Desenvolvimento Web FullStack pela DigitalHouse e Formação em Dados pela Escola DNC
-
-📫 Para conversar comigo, 
-    Meu e-mail é: 
-antoniohenriqueferreira@outlook.com.br
-    E meu linkedin é: 
+📫 Para conversar comigo, meu e-mail é: 
+antoniohenriqueferreira@outlook.com.br 
+e meu linkedin é: 
 https://www.linkedin.com/in/antonio-henrique-ferreira/
+
+Ah!, e meu insta é @anthenfer tal qual é aqui no GitHub. 
 <!--
 **anthenfer/anthenfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
