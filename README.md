@@ -1,6 +1,6 @@
 ### Oi, me chamo Antônio👋
 
-🌱 Bacharel Engenharia de Computação (8º semestre)
+🌱 Bacharel Engenharia de Computação (9º semestre)
 
 🤔 Atualmente, também estudo Formação One Next Education pela ORACLE e concluí Desenvolvimento Web FullStack pela DigitalHouse e Formação em Dados pela Escola DNC
 
