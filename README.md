@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Antônio  
 
-🎓 **Bacharelando em Engenharia de Computação** (9º semestre) pela **UNICID**  
+🎓 **Bacharelando em Engenharia de Computação** (10º semestre) pela **Universidade Cruzeiro do Sul**  
 💼 **Engenheiro de Integração** na **Jitterbit**, com foco em **EDI**  
 ☁️ Em conclusão da **certificação Oracle Cloud Infrastructure (OCI)** pelo programa **Oracle One**  
 💻 Formação em **Desenvolvimento Web Full Stack** pela **Digital House**  
